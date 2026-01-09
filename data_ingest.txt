@@ -1,3 +1,1 @@
-This is another Data Ingestion File
-New branch testing
-master branch changed
+MASTER VERSION
